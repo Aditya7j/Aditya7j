@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Kumar
 - 👀 I’m interested in Developing
-- 🌱 I’m currently learning MERN 
+- 🌱 I’m currently learning React.js 
 - 💞️ I’m looking to collaborate on Youtube
 - 👀 Ask me about Web Development or any tech related stuff
 - 📫 How to reach me Linkedin - https://www.linkedin.com/in/aditya-kumar-898a9814a 
