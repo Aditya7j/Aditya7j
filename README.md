@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Kumar
 - Full Stack Developer
-  I am currently pursuing full-stack web development from masai school and learning many soft skills as well. In my free time, I enjoy playing online games
+  I am currently pursuing full-stack web development from masai school and learning many soft skills as well.
 - 👀 I’m interested in Developing
 - 🌱 I’m currently learning React.js 
 - 💞️ I’m looking to collaborate on Youtube
