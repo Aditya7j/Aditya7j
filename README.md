@@ -9,7 +9,7 @@
 
 - 👨‍💻 My Portfolio [https://aditya-portfolio-007.netlify.app/](https://aditya-portfolio-007.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, NODE, EXPRESS**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, NODE, EXPRESS TYPESCRIPT SASS**
 
 - 📫 How to reach me **adityasingh0076@gmail.com**
 
