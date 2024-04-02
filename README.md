@@ -7,7 +7,7 @@
 
 - 🌱A dedicated and innovative Frontend Developer with 2 years of hands-on experience in building responsive web-applications using React framework
 
-- 👨‍💻 My Portfolio [[https://aditya-portfolio-007.netlify.app/](https://aditya-kumar-006.netlify.app/)](https://aditya-portfolio-007.netlify.app/)
+- 👨‍💻 My Portfolio [(https://aditya-kumar-006.netlify.app/)]
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, NODE, EXPRESS TYPESCRIPT SASS**
 
