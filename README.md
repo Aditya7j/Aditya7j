@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakumar&label=Profile%20views&color=0e75b6&style=flat" alt="adityakumar" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱A dedicated and innovative Frontend Developer with 2 years of hands-on experience in building responsive web-applications using React framework
 
 - 👨‍💻 My Portfolio [https://aditya-portfolio-007.netlify.app/](https://aditya-portfolio-007.netlify.app/)
 
