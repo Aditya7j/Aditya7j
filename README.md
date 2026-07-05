@@ -1,35 +1,31 @@
 <div align="center">
 
-## Hi, I'm Aditya Kumar 👋
+# Hi, I'm Aditya Kumar 👋
 
 ### Frontend-Focused Full Stack Developer
 
-<sub>
-React.js • JavaScript • TypeScript • Node.js • Express.js • MongoDB
-</sub>
+<p>
+  React.js • JavaScript • TypeScript • Node.js • Express.js • MongoDB
+</p>
 
-<br />
-<br />
+<p>
+  I build responsive, scalable, and business-focused web applications with clean UI, reusable components, and real-world product workflows.
+</p>
 
-<sub>
-I build responsive, scalable, and business-focused web applications with clean UI, reusable components, and real-world product workflows.
-</sub>
-
-<br />
-<br />
-
-<a href="https://aditya-kumar007.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://drive.google.com/file/d/1ehAdSY3BlpK0yqe7vrijkc-WHg3GKjtb/view" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
-</a>
-<a href="mailto:adityasingh0076@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/adityakumar" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p>
+  <a href="https://aditya-kumar007.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1ehAdSY3BlpK0yqe7vrijkc-WHg3GKjtb/view" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+  <a href="mailto:adityasingh0076@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/adityakumar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
@@ -117,13 +113,13 @@ I have worked on business-heavy modules like **POS, Warehouse Management, Invent
 
 <p>
   <a href="https://www.linkedin.com/in/adityakumar" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="38" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:adityasingh0076@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="38" />
+    <img src="https://img.shields.io/badge/Gmail-Mail_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Aditya7j" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="38" />
+    <img src="https://img.shields.io/badge/GitHub-Aditya7j-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
