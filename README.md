@@ -1,18 +1,41 @@
 <div align="center">
 
-### Hi, I'm Aditya Kumar 👋
+## Hi, I'm Aditya Kumar 👋
 
-**Frontend-Focused Full Stack Developer | React.js | JavaScript | Node.js**
+### Frontend-Focused Full Stack Developer
 
+<sub>
+React.js • JavaScript • TypeScript • Node.js • Express.js • MongoDB
+</sub>
+
+<br />
+<br />
+
+<sub>
 I build responsive, scalable, and business-focused web applications with clean UI, reusable components, and real-world product workflows.
+</sub>
 
-[Portfolio](https://aditya-kumar007.netlify.app/) • [Resume](https://drive.google.com/file/d/1ehAdSY3BlpK0yqe7vrijkc-WHg3GKjtb/view) • [Email](mailto:adityasingh0076@gmail.com) • [LinkedIn](https://www.linkedin.com/in/adityakumar)
+<br />
+<br />
+
+<a href="https://aditya-kumar007.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://drive.google.com/file/d/1ehAdSY3BlpK0yqe7vrijkc-WHg3GKjtb/view" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
+<a href="mailto:adityasingh0076@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/adityakumar" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-### About
+## About Me
 
 Frontend-focused Full Stack Developer with **3.5+ years of hands-on experience** in building production-ready web applications using **React.js, JavaScript, TypeScript, Redux Toolkit, Node.js, Express.js, MongoDB, Material UI, HTML, CSS, and Sass**.
 
@@ -20,7 +43,7 @@ I have worked on business-heavy modules like **POS, Warehouse Management, Invent
 
 ---
 
-### Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,materialui,sass,git,github,vscode" />
@@ -28,42 +51,60 @@ I have worked on business-heavy modules like **POS, Warehouse Management, Invent
 
 ---
 
-### Professional Work
+## Professional Work
 
-| Project / Module | What I Worked On |
+| Module | Work Summary |
 |---|---|
 | **POS System** | Built billing, cart, customer selection, payment flow, split payment, loyalty points, session start/end, and real-time order handling. |
-| **Warehouse Management System** | Worked on inward flow, inventory movement, stock visibility, refund handling, and warehouse-level operational screens. |
-| **Inventory Management** | Created reusable UI flows for product stock, inventory updates, purchase-related data, and business validations. |
+| **Warehouse Management System** | Worked on inward flow, stock visibility, inventory movement, warehouse-level refund handling, and operational screens. |
+| **Inventory Management** | Built UI flows for stock updates, inventory tracking, purchase-related data, validations, and reusable table/form components. |
 | **Hyperlocal Serviceability** | Built pincode/radius-based delivery configuration, 7-day delivery slots, shipping charges, pickup location, and cutoff time workflows. |
 | **Purchase & Billing Flow** | Worked on purchase indent, purchase order, purchase bill, vendor credit, bills, payments, and refund-related modules. |
-| **Resume Maker Application** | Built resume-building features similar to platforms like **Zety, LiveCareer, and MPR**, including templates, form-based data entry, preview, and downloadable resume flow. |
+| **Payment Gateway Integration** | Worked on payment flow, split payment handling, gateway response management, and UI-level payment status handling. |
+| **Resume Maker Platform** | Built resume creation features similar to platforms like **MPR, Zety, and LiveCareer**, including form-based input, templates, live preview, and downloadable resume flow. |
 
 ---
 
-### Featured Projects
+## Featured Projects
 
-| Project | Description | Tech |
+| Project | Description | Tech Stack |
 |---|---|---|
-| **Chat Application** | Real-time chat app with authentication, one-to-one chat, group chat, and Socket.IO messaging. | React.js, Node.js, Express.js, MongoDB, Socket.IO |
+| **Chat Application** | Real-time chat app with authentication, one-to-one messaging, group chat, and Socket.IO integration. | React.js, Node.js, Express.js, MongoDB, Socket.IO |
 | **E-commerce Application** | Product listing, filtering, cart management, checkout modal, and authentication flow. | React.js, JavaScript, FakeStore API |
-| **Movie Search App** | Movie search with API integration, search results, and movie detail page. | React.js, JavaScript, API |
+| **Movie Search App** | Movie search app with API integration, search functionality, movie detail page, and responsive UI. | React.js, JavaScript, API |
 | **Food Delivery App** | Responsive food ordering UI with restaurant listing, cart flow, and clean user interface. | React.js, JavaScript, CSS |
 
 ---
 
-### Live Links
+## Project Links
 
-- Portfolio: [aditya-kumar007.netlify.app](https://aditya-kumar007.netlify.app/)
-- Chat App: [chitchat007.netlify.app](https://chitchat007.netlify.app)
-- GitHub: [github.com/Aditya7j](https://github.com/Aditya7j)
+<p>
+  <a href="https://chitchat007.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Chat_App-Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+  <a href="https://github.com/Aditya7j/chat-app" target="_blank">
+    <img src="https://img.shields.io/badge/Chat_App-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/Aditya7j/E-commerce-backend" target="_blank">
+    <img src="https://img.shields.io/badge/E--commerce-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Aditya7j/FillmyWorld" target="_blank">
+    <img src="https://img.shields.io/badge/Movie_App-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Aditya7j/Food-Villa" target="_blank">
+    <img src="https://img.shields.io/badge/Food_App-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### What I Work With
+## What I Work With
 
 - Building responsive and reusable UI components using React.js
-- Managing complex frontend state with Redux Toolkit
+- Managing complex frontend state using Redux Toolkit
 - Integrating REST APIs using Axios and fetch
 - Working with authentication, protected routes, and role-based flows
 - Creating business dashboards, forms, tables, modals, and data-heavy screens
@@ -72,23 +113,23 @@ I have worked on business-heavy modules like **POS, Warehouse Management, Invent
 
 ---
 
-### Connect
+## Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/adityakumar" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="38" />
   </a>
   <a href="mailto:adityasingh0076@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="35" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="38" />
   </a>
   <a href="https://github.com/Aditya7j" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="35" />
+    <img src="https://skillicons.dev/icons?i=github" height="38" />
   </a>
 </p>
 
 ---
 
-### GitHub Activity
+## GitHub Activity
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya7j&show_icons=true&theme=github_dark&hide_border=true" height="150" />
@@ -96,4 +137,8 @@ I have worked on business-heavy modules like **POS, Warehouse Management, Invent
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya7j&layout=compact&theme=github_dark&hide_border=true" height="150" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya7j&theme=github-dark-blue&hide_border=true" height="150" />
 </p>
