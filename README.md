@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  <a href="https://aditya-kumar007.netlify.app/" target="_blank">
+  <a href="[https://aditya-kumar007.netlify.app/](https://sensational-aditya-portfolio.netlify.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://drive.google.com/file/d/1ehAdSY3BlpK0yqe7vrijkc-WHg3GKjtb/view" target="_blank">
